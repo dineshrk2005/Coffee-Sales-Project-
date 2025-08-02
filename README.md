@@ -38,5 +38,4 @@ This Excel-based project analyzes coffee order data using advanced spreadsheet t
 
 This project transforms raw coffee order data into clear, visual business insights using Excel. It’s a practical example of how spreadsheet tools can drive decision-making.
 
-![image alt(<img width="1538" height="743" alt="image" src="https://github.com/user-attachments/assets/50b785cd-4be0-4c3e-92f5-f0d1dd5e4b05" />
-)]
+<img width="1538" height="743" alt="image" src="https://github.com/user-attachments/assets/50b785cd-4be0-4c3e-92f5-f0d1dd5e4b05" />
